@@ -1,7 +1,8 @@
-# devops_api1
+# devops_api1 Integracion de equipos remotos
 
 
-## Colaboracion
-*Arevalo Mariana
-*Silva Mariana
-*Montiel Andres
+## Colaboracion 
+
+* Arevalo Mariana
+* Silva Mariana
+* Montiel Andres
